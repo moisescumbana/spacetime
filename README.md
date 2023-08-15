@@ -13,4 +13,4 @@ Esse é um projecto web responsivo de uma capsula do tepo para exibir memorias e
 
 ## Layout
 
-[clique aqui](https://moisescumbana.github.io/spacetime)
+[clique aqui para aceder o layout](https://moisescumbana.github.io/spacetime)
